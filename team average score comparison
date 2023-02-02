@@ -1,0 +1,51 @@
+//coding challenge two :-  team average socre comprision 
+/*
+var johnTeamAverage = 89 + 120 + 103 / 2;
+
+console.log(johnTeamAverage + ' ' + 'this is john team average ');
+
+var mikeTeamAverage = 116 + 94 + 123 / 2;
+
+console.log(mikeTeamAverage + ' ' + 'this is mike team average ');
+
+if(johnTeamAverage > mikeTeamAverage )
+    {
+        console.log( 'john teams is the loser in average score');
+    }
+
+else
+{
+    console.log('mike teams is the winner in average score' );
+      console.log(' mike average score is equal to ' + mikeTeamAverage );
+}
+   var johnTeam = 100 + 110 + 130 / 2;
+
+console.log(johnTeam + ' ' + 'this is john team average ');
+
+var mikeTeam = 50 + 60 + 70 / 2;
+
+console.log(mikeTeam + ' ' + 'this is mike team average ');
+
+if(johnTeam > mikeTeam )
+    {
+        console.log( 'john teams is the winner in average score');
+        console.log('john average score is equal to ' + johnTeam );
+    }
+
+else
+{
+    console.log('mike teams is the winner in average score' );
+}
+var averageOfjohn = 100 + 150 + 200 / 2;
+var averageOfmike  = 100 + 150+ 200 / 2;  
+   if (averageOfjohn > averageOfmike && averageOfmike > averageOfjohn)
+       {
+          console.log('one of them is loser and other is winner');
+       }
+
+   else
+   {
+       console.log( 'both team have same average so its draw');
+         console.log(' both team average score is  ' + averageOfjohn+ ' ' + averageOfmike );
+   }  
+*/
